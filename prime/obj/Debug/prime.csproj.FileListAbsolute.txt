@@ -1,0 +1,7 @@
+E:\docs\kursy\prime\prime\bin\Debug\prime.exe.config
+E:\docs\kursy\prime\prime\bin\Debug\prime.exe
+E:\docs\kursy\prime\prime\bin\Debug\prime.pdb
+E:\docs\kursy\prime\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache
+E:\docs\kursy\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+E:\docs\kursy\prime\prime\obj\Debug\prime.exe
+E:\docs\kursy\prime\prime\obj\Debug\prime.pdb
